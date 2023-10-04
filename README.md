@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) to show events .
-
+ ![alt text](https://github.com/Ahmref/EventApp-next.js-13/blob/main/Capture.PNG)
 ## Getting Started
 
 First, run the development server:
